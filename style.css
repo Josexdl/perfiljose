@@ -11,7 +11,7 @@ caption {
     font-size: 20px; /* Define o tamanho da fonte como 20 pixels */
     color: black; /* Define a cor da fonte como preto */
 }
-table {   
+able {   
     border-radius: 10%;
 }
 color a{
@@ -78,9 +78,4 @@ td, th {
   tr{
     background-color: #660000;
   }
-  td{
-    background-color: #f0f0f0;
-  }
-#eu{
-    color: black;
-}
+  
