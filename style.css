@@ -101,6 +101,8 @@ td{
 .centro{
     text-align: center;
     color: #660000;
+    text-transform: uppercase;
+        font-size: 20px;
 }
 
   
