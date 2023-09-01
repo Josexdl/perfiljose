@@ -21,3 +21,17 @@ color a{
      font-size: 18px;
      color: #006600;
 }
+color b{
+    color:#0000ff;
+}
+.formulariob{
+    font-size: 18px;
+    color:#0000ff;
+}
+color c{
+    color: #ff9900;
+}
+.formularioc{
+    font-size: 18px;
+    color: #ff9900;
+}
