@@ -71,6 +71,8 @@ td, th {
     margin: 0;
     /*border: 1px solid #ccc;*/
     text-align: center;
+    color: #ffffff;
+    text-transform: uppercase;
   }
   
   tr{
