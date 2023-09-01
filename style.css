@@ -55,8 +55,8 @@ figure img{
     position: fixed;
     left: 0;
     bottom: 0;
-    width: 100%;
-    background-image: linear-gradient color #C26861;
+    width: 100%;   
+    background-image: linear-gradient(#C26861 #ffffff);
     color: white;
     text-align: center;
 }
