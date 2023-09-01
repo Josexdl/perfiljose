@@ -51,7 +51,7 @@ figcaption {
 figure img{
     border-radius: 50%;
 }
-#rodape{
+.rodape{
     position: fixed;
     left: 0;
     bottom: 0;
