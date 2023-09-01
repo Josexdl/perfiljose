@@ -2,16 +2,15 @@ body {
     background-color: rgb(239, 240, 227);
     font-family: Arial, Helvetica, sans-serif;
 }
-
-
 #imagem {
     text-align: center;
 }
-
-
 /* Seleciona o título da tabela (caption) */
 caption {
     text-transform: uppercase; /* Transforma o texto em maiúsculas */
     font-size: 20px; /* Define o tamanho da fonte como 20 pixels */
     color: black; /* Define a cor da fonte como preto */
+}
+table {
+    border-radius: 10%;
 }
