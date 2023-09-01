@@ -51,3 +51,12 @@ figcaption {
 figure img{
     border-radius: 50%;
 }
+#rodape{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-image: linear-gradient color #C26861;
+    color: white;
+    text-align: center;
+}
