@@ -48,3 +48,6 @@ figcaption{
     padding: 2px;
     text-align: center;
 }
+figure img{
+    border-radius: 50%;
+}
