@@ -35,3 +35,16 @@ color c{
     font-size: 18px;
     color: #ff9900;
 }
+figure{
+    border: 1px color #cccccc solid;
+    height: 50%;
+    padding: 4px;
+    margin: auto;
+}
+figcaption{
+    background-color: black;
+    font: white;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+}
