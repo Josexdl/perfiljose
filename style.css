@@ -14,4 +14,10 @@ caption {
 table {   
     border-radius: 10%;
 }
-
+color a{
+     color: #006600;
+}
+.formularioa{
+     font-size: 18px;
+     color: #006600;
+}
