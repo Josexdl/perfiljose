@@ -41,13 +41,13 @@ figure{
     padding: 4px;
     margin: auto;
 }
-figcaption{
+figcaption {
     background-color: black;
-    font: white;
+    color: white;
     font-style: italic;
     padding: 2px;
     text-align: center;
-}
+  }
 figure img{
     border-radius: 50%;
 }
