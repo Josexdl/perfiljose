@@ -11,7 +11,7 @@ caption {
     font-size: 20px; /* Define o tamanho da fonte como 20 pixels */
     color: black; /* Define a cor da fonte como preto */
 }
-.tabela-arredondada {
+table {
     border: 1px solid #c26861;
     border-radius: 10%;
 }
