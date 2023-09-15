@@ -104,12 +104,11 @@ td{
     text-transform: uppercase;
         font-size: 20px;
 }
-.quadrado{
-    background-color: lightgrey;
-    width: 300px;
+.jose{
+    width: 200px;
     border: 15px solid rgb(0, 0, 0);
-    padding: 50px;
-    margin: 20px;
+    padding: 10px;
+    margin: auto;
     text-align: center;
 }
 h2{
